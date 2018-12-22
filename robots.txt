@@ -1,0 +1,32 @@
+User-agent: * 
+Allow: / 
+User-agent: Mediapartners-Google 
+Allow: / 
+User-agent: Googlebot 
+Allow: / 
+User-agent: Adsbot-Google 
+Allow: / 
+User-agent: Googlebot-Image 
+Allow: / 
+User-agent: Googlebot-Mobile 
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: naverbot
+Allow: /
+
+User-agent: baiduspider
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+Sitemap: https://chrome.download-lagu-mp3.com/sitemap.xml
