@@ -2,7 +2,7 @@
 <a href="https://1.bp.blogspot.com/-ig8jjShxus8/XB5g2SvNvCI/AAAAAAAAALI/DPoJXOpTKVclknd1GLvxUwg9rww6tSUSwCLcBGAs/s1600/Youtube%2BDownloader%2BAddon.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="624" data-original-width="1348" src="https://1.bp.blogspot.com/-ig8jjShxus8/XB5g2SvNvCI/AAAAAAAAALI/DPoJXOpTKVclknd1GLvxUwg9rww6tSUSwCLcBGAs/s1600/Youtube%2BDownloader%2BAddon.png" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
-<div class="separator" style="clear: both; text-align: center;">
+<div class="separator" style="clear: both; text-align: left;">
 <span style="background-color: #f9f9f9; color: #444444; font-size: 2.5rem;">Youtube Downloader Chrome Extension</span></div>
 <div style="background-color: #f9f9f9; box-sizing: inherit; color: #202121; font-family: Roboto, sans-serif; font-size: 17px; line-height: 26px; margin-bottom: 1rem; padding: 0px; text-rendering: optimizelegibility;">
 This allows Google Chrome users to download and convert YouTube videos to mp3 (320) kbps files and also videos with a variety of high quality options 2160p (4k), 1440p (2k), 1080p (HD), 720p (HD), 480p, 360p, 144p etc. This video quality is supported for all available video formats (MP4, WEBM, 3GP).</div>
