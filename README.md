@@ -3,13 +3,11 @@
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
-<br /></div>
-<h2 style="background-color: #f9f9f9; box-sizing: inherit; color: #444444; font-family: rajdhani, sans-serif !important; font-size: 2.5rem; font-weight: 400 !important; line-height: 1.4; margin: 0px 0px 0.5rem; padding: 0px; text-rendering: optimizelegibility;">
-Youtube Downloader Chrome Extension</h2>
+<span style="background-color: #f9f9f9; color: #444444; font-size: 2.5rem;">Youtube Downloader Chrome Extension</span></div>
 <div style="background-color: #f9f9f9; box-sizing: inherit; color: #202121; font-family: Roboto, sans-serif; font-size: 17px; line-height: 26px; margin-bottom: 1rem; padding: 0px; text-rendering: optimizelegibility;">
 This allows Google Chrome users to download and convert YouTube videos to mp3 (320) kbps files and also videos with a variety of high quality options 2160p (4k), 1440p (2k), 1080p (HD), 720p (HD), 480p, 360p, 144p etc. This video quality is supported for all available video formats (MP4, WEBM, 3GP).</div>
 <div style="background-color: #f9f9f9;">
-<span style="color: #202121; font-family: roboto, sans-serif; font-size: x-large;">How to install the chrome addon?</span></div>
+<span style="color: #202121; font-family: &quot;roboto&quot; , sans-serif; font-size: x-large;">Follow steps 1 to 3 below for installation</span></div>
 <div style="background-color: #f9f9f9;">
 <span style="background-color: #fefefe; box-sizing: border-box; color: #141414; font-family: &quot;segoe ui&quot; , &quot;helvetica neue&quot; , &quot;helvetica&quot; , &quot;roboto&quot; , &quot;oxygen&quot; , &quot;ubuntu&quot; , &quot;cantarell&quot; , &quot;fira sans&quot; , &quot;droid sans&quot; , sans-serif; font-size: large; font-weight: 700;"><span style="box-sizing: border-box; color: red;"><br /></span></span>
 <span style="background-color: #fefefe; box-sizing: border-box; color: #141414; font-family: &quot;segoe ui&quot; , &quot;helvetica neue&quot; , &quot;helvetica&quot; , &quot;roboto&quot; , &quot;oxygen&quot; , &quot;ubuntu&quot; , &quot;cantarell&quot; , &quot;fira sans&quot; , &quot;droid sans&quot; , sans-serif; font-size: large; font-weight: 700;"><span style="box-sizing: border-box; color: red;">Step 1:</span>&nbsp;</span><b style="font-size: x-large;"><span style="background-color: #fefefe; box-sizing: border-box; color: #141414; font-family: &quot;segoe ui&quot; , &quot;helvetica neue&quot; , &quot;helvetica&quot; , &quot;roboto&quot; , &quot;oxygen&quot; , &quot;ubuntu&quot; , &quot;cantarell&quot; , &quot;fira sans&quot; , &quot;droid sans&quot; , sans-serif;">Install&nbsp;</span><span style="background-color: white; color: #202124; font-family: &quot;google sans&quot; , &quot;roboto&quot; , &quot;arial&quot; , sans-serif; white-space: nowrap;">Tampermonkey</span></b></div>
